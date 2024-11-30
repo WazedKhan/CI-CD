@@ -1,4 +1,4 @@
-def say_hello(name: str) -> None:
+def say_hello(name: str) -> str:
     return f"Hello {name}"
 
 
